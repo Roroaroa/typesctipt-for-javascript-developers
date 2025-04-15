@@ -16,5 +16,8 @@
     "url": "https://github.com/Roroaroa/typesctipt-for-javascript-developers/issues"
   },
   "homepage": "https://github.com/Roroaroa/typesctipt-for-javascript-developers#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
 }
